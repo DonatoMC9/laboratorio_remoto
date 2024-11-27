@@ -1,1 +1,2 @@
 Texto editado en el Laboratorio Remoto
+Archivo editado en el Repositorio Remoto GitHub
