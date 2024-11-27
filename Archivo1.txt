@@ -1,2 +1,4 @@
 Texto editado en el Laboratorio Remoto
 Archivo editado en el Repositorio Remoto GitHub
+
+Cambio agregado para usar git fetch
